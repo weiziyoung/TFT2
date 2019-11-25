@@ -1,0 +1,4914 @@
+[
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.15,
+        "total_strength": 12.672000320434563
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.35,
+        "total_strength": 11.616000370025631
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.2,
+        "total_strength": 11.47200038719177
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.2,
+        "total_strength": 11.47200038719177
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.2,
+        "total_strength": 11.47200038719177
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.2,
+        "total_strength": 11.47200038719177
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.2,
+        "total_strength": 11.47200038719177
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 17.2,
+        "total_strength": 11.47200038719177
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.1,
+        "total_strength": 11.328000175476063
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 19,
+        "total_trait_strength": 18.150002,
+        "total_strength": 11.240400543880465
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "琪亚娜",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "辛德拉",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.850001,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "辛德拉",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 15.85,
+        "total_strength": 11.136000350952145
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.95,
+        "total_strength": 10.559999847412108
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.95,
+        "total_strength": 10.559999847412108
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.95,
+        "total_strength": 10.559999847412108
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.95,
+        "total_strength": 10.559999847412108
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.95,
+        "total_strength": 10.559999847412108
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 10.399999618530273
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 10.399999618530273
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 10.399999618530273
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18,
+        "total_strength": 10.368000137329092
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18,
+        "total_strength": 10.368000137329092
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18,
+        "total_strength": 10.368000137329092
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18,
+        "total_strength": 10.368000137329092
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18,
+        "total_strength": 10.36800013732909
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 10,
+        "total_trait_strength": 13.300001,
+        "total_strength": 10.272000225067131
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 17,
+        "total_trait_strength": 17.4,
+        "total_strength": 10.080000400543213
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "岩雀",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 17,
+        "total_trait_strength": 16.5,
+        "total_strength": 10.08000028610229
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛吉德",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 16,
+        "total_trait_strength": 16.5,
+        "total_strength": 10.08000028610229
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 17,
+        "total_trait_strength": 16.5,
+        "total_strength": 10.08000028610229
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "雷克塞"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "钢铁": 2
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.919999694824218
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "塞恩",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "影": 2,
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 11.25,
+        "total_strength": 9.843999839782715
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 7.3999996,
+        "total_strength": 9.839999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛吉德"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 7.3999996,
+        "total_strength": 9.839999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "图奇"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 7.3999996,
+        "total_strength": 9.839999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛吉德"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 5,
+        "total_trait_strength": 7.3999996,
+        "total_strength": 9.839999771118165
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 19,
+        "total_trait_strength": 17.95,
+        "total_strength": 9.796200139617916
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 19,
+        "total_trait_strength": 17.95,
+        "total_strength": 9.796200139617914
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "辛德拉",
+            "岩雀",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "法师": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 17.400002,
+        "total_strength": 9.792000663757337
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 11.8,
+        "total_strength": 9.792000205993645
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 11.8,
+        "total_strength": 9.792000205993645
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 11.8,
+        "total_strength": 9.792000205993645
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 11.8,
+        "total_strength": 9.792000205993645
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 11.8,
+        "total_strength": 9.792000205993645
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "琪亚娜",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 11.8,
+        "total_strength": 9.792000205993645
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10.15,
+        "total_strength": 9.679999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10.15,
+        "total_strength": 9.679999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "琪亚娜",
+            "雷克塞"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "钢铁": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 11.099999,
+        "total_strength": 9.671999595642092
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "雷克塞"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "钢铁": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 11.099999,
+        "total_strength": 9.671999595642092
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "雷克塞"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "钢铁": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 11.099999,
+        "total_strength": 9.671999595642092
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "雷克塞"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "钢铁": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 11.1,
+        "total_strength": 9.671999595642092
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "雷克塞"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "钢铁": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 11.099999,
+        "total_strength": 9.671999595642092
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15.000001,
+        "total_strength": 9.600000267028806
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028806
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028806
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028806
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15.000001,
+        "total_strength": 9.600000267028806
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "塔里克"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "岩雀",
+            "塔里克",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15.000001,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15.000001,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "岩雀",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "奥恩",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 15,
+        "total_trait_strength": 15,
+        "total_strength": 9.600000267028804
+    },
+    {
+        "combo": [
+            "剑魔",
+            "贾科斯",
+            "内瑟斯",
+            "索拉卡",
+            "维恩",
+            "约里克"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "光": 6
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 12,
+        "total_strength": 9.6
+    },
+    {
+        "combo": [
+            "安妮",
+            "沙皇",
+            "马尔扎哈",
+            "约里克",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "召唤师": 6
+        },
+        "total_trait_num": 12,
+        "total_trait_strength": 12,
+        "total_strength": 9.6
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.95,
+        "total_strength": 9.590400479507448
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.95,
+        "total_strength": 9.590400479507448
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "辛吉德",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.95,
+        "total_strength": 9.590400479507448
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "岩雀",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.559999942779541
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "岩雀",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.559999942779541
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "岩雀",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.559999942779541
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.559999942779541
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "辛德拉",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.559999942779541
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "辛德拉",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.559999942779541
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "索拉卡",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 14,
+        "total_trait_strength": 17.85,
+        "total_strength": 9.532800587081915
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "琪亚娜",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 10,
+        "total_strength": 9.519999694824218
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "西维尔"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 10.9,
+        "total_strength": 9.48799977493286
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "鳄鱼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 10.9,
+        "total_strength": 9.48799977493286
+    },
+    {
+        "combo": [
+            "沙皇",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 10.9,
+        "total_strength": 9.48799977493286
+    },
+    {
+        "combo": [
+            "沙皇",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 10.9,
+        "total_strength": 9.48799977493286
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "鳄鱼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 10.9,
+        "total_strength": 9.48799977493286
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "鳄鱼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 10.9,
+        "total_strength": 9.48799977493286
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "西维尔"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 8,
+        "total_trait_strength": 10.9,
+        "total_strength": 9.48799977493286
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.8,
+        "total_strength": 9.446400496673586
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "雷克塞"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "吸血鬼"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "维嘉"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "岩雀"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛德拉"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛德拉"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "岩雀"
+        ],
+        "trait_num": 2,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 4,
+        "total_trait_strength": 5.8999996,
+        "total_strength": 9.439999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "图奇",
+            "维鲁斯"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "游侠": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999847412109
+    },
+    {
+        "combo": [
+            "艾翁",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "图奇",
+            "维恩"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "游侠": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999847412109
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "琪亚娜",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.799999,
+        "total_strength": 9.359999656677246
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "岩雀",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.65,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.65,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.65,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.65,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 13,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.302400513839725
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175783
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175783
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175781
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175781
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175781
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175781
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175781
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.280000305175781
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.28000030517578
+    },
+    {
+        "combo": [
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.28000030517578
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 20,
+        "total_trait_strength": 14.700001,
+        "total_strength": 9.28000030517578
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "茂凯",
+            "易大师",
+            "妮蔻",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706056
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "马尔扎哈",
+            "茂凯",
+            "妮蔻",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706056
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "马尔扎哈",
+            "茂凯",
+            "妮蔻",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706056
+    },
+    {
+        "combo": [
+            "布兰德",
+            "千珏",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706056
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "琪亚娜",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "岩雀",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "琪亚娜",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛德拉",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "法师": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.65,
+        "total_strength": 9.279999923706054
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "塞恩",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "影": 4,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 17,
+        "total_trait_strength": 17.650002,
+        "total_strength": 9.273600550460824
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "塞恩",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "影": 4,
+            "法师": 3,
+            "海洋": 2
+        },
+        "total_trait_num": 17,
+        "total_trait_strength": 17.65,
+        "total_strength": 9.273600550460824
+    },
+    {
+        "combo": [
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.222000496864325
+    },
+    {
+        "combo": [
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.650002,
+        "total_strength": 9.222000496864325
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "易大师",
+            "妮蔻",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "琪亚娜",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "易大师",
+            "妮蔻"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "马尔扎哈",
+            "茂凯",
+            "妮蔻"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "千珏",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "马尔扎哈",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "琪亚娜",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "安妮",
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "布兰德",
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "千珏",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "安妮",
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "雷克塞"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "布兰德",
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "琪亚娜",
+            "雷克塞",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "易大师",
+            "妮蔻",
+            "梦魇"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "琪亚娜",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "塞恩"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "千珏",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "琪亚娜",
+            "雷克塞",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "辛德拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "琪亚娜",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "琪亚娜",
+            "维嘉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "劫",
+            "婕拉"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "乐芙兰",
+            "马尔扎哈",
+            "茂凯",
+            "妮蔻",
+            "梦魇"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "琪亚娜",
+            "吸血鬼"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "雷克塞",
+            "劫"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "安妮",
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "琪亚娜",
+            "岩雀"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "戴安娜",
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "塞恩"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "布兰德",
+            "戴安娜",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "琪亚娜",
+            "雷克塞"
+        ],
+        "trait_num": 3,
+        "trait_detail": {
+            "刺客": 3,
+            "德鲁伊": 2,
+            "森林": 3
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 9.11999969482422
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "亚索"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 19,
+        "total_trait_strength": 23.2,
+        "total_strength": 9.07200065231324
+    },
+    {
+        "combo": [
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.5,
+        "total_strength": 9.048000518798835
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "茂凯",
+            "梦魇",
+            "雷克塞",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1,
+            "钢铁": 2
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.7,
+        "total_strength": 9.039999771118165
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "梦魇",
+            "雷克塞",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1,
+            "钢铁": 2
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.7,
+        "total_strength": 9.039999771118165
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "梦魇",
+            "雷克塞",
+            "辛吉德"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "炼金术士": 1,
+            "钢铁": 2
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.7,
+        "total_strength": 9.039999771118165
+    },
+    {
+        "combo": [
+            "大嘴",
+            "雷克塞",
+            "辛吉德",
+            "水晶先锋",
+            "图奇",
+            "维恩"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "掠食者": 3,
+            "毒": 3,
+            "游侠": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13.5,
+        "total_strength": 9.024000249862674
+    },
+    {
+        "combo": [
+            "大嘴",
+            "雷克塞",
+            "辛吉德",
+            "水晶先锋",
+            "塔里克",
+            "图奇"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "掠食者": 3,
+            "毒": 3,
+            "水晶": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13.5,
+        "total_strength": 9.024000249862674
+    },
+    {
+        "combo": [
+            "大嘴",
+            "雷克塞",
+            "辛吉德",
+            "水晶先锋",
+            "图奇",
+            "维鲁斯"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "掠食者": 3,
+            "毒": 3,
+            "游侠": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 9,
+        "total_trait_strength": 13.5,
+        "total_strength": 9.024000249862674
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "西维尔",
+            "索拉卡",
+            "亚索"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "秘术": 4
+        },
+        "total_trait_num": 17,
+        "total_trait_strength": 17.35,
+        "total_strength": 8.92800045204163
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.300001,
+        "total_strength": 8.920400149536132
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.300001,
+        "total_strength": 8.920400149536132
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.300001,
+        "total_strength": 8.920400149536132
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.300001,
+        "total_strength": 8.920400149536132
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.300001,
+        "total_strength": 8.92040014953613
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.300001,
+        "total_strength": 8.92040014953613
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 16.300001,
+        "total_strength": 8.92040014953613
+    },
+    {
+        "combo": [
+            "卡兹克",
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "西维尔",
+            "亚索"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "剑士": 2,
+            "德鲁伊": 2,
+            "森林": 3,
+            "沙漠": 2
+        },
+        "total_trait_num": 7,
+        "total_trait_strength": 9.5,
+        "total_strength": 8.919999933242797
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "亚索"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 18,
+        "total_trait_strength": 22.050001,
+        "total_strength": 8.89920052871704
+    },
+    {
+        "combo": [
+            "乐芙兰",
+            "茂凯",
+            "妮蔻",
+            "辛吉德",
+            "图奇",
+            "维恩"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "游侠": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 8.879999923706055
+    },
+    {
+        "combo": [
+            "艾翁",
+            "乐芙兰",
+            "妮蔻",
+            "辛吉德",
+            "图奇",
+            "维恩"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "德鲁伊": 2,
+            "森林": 3,
+            "游侠": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 6,
+        "total_trait_strength": 8.5,
+        "total_strength": 8.879999923706055
+    }
+]

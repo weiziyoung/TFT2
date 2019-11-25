@@ -1,0 +1,7 @@
+maximum_heap : 256
+gain_level : 1.25
+evaluation: "strength"
+trait_path: "data/traits.json"
+champion_path: "data/champions.json"
+language_path: "data/language.json"
+output_path: "data/output/strength/"

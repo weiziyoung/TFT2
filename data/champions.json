@@ -1,0 +1,556 @@
+[
+	{
+		"name": "Aatrox",
+		"origin": [
+			"Light"
+		],
+		"class": [
+			"Blademaster"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Aatrox.png"
+	},
+	{
+		"name": "Annie",
+		"origin": [
+			"Inferno"
+		],
+		"class": [
+			"Summoner"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Annie.png"
+	},
+	{
+		"name": "Ashe",
+		"origin": [
+			"Crystal"
+		],
+		"class": [
+			"Ranger"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Ashe.png"
+	},
+	{
+		"name": "Azir",
+		"origin": [
+			"Desert"
+		],
+		"class": [
+			"Summoner"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Azir.png"
+	},
+	{
+		"name": "Brand",
+		"origin": [
+			"Inferno"
+		],
+		"class": [
+			"Mage"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Brand.png"
+	},
+	{
+		"name": "Braum",
+		"origin": [
+			"Glacial"
+		],
+		"class": [
+			"Warden"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Braum.png"
+	},
+	{
+		"name": "Diana",
+		"origin": [
+			"Inferno"
+		],
+		"class": [
+			"Assassin"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Diana.png"
+	},
+	{
+		"name": "Dr. Mundo",
+		"origin": [
+			"Poison"
+		],
+		"class": [
+			"Berserker"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/DrMundo.png"
+	},
+	{
+		"name": "Ezreal",
+		"origin": [
+			"Glacial"
+		],
+		"class": [
+			"Ranger"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Ezreal.png"
+	},
+	{
+		"name": "Ivern",
+		"origin": [
+			"Forest"
+		],
+		"class": [
+			"Druid"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Ivern.png"
+	},
+	{
+		"name": "Janna",
+		"origin": [
+			"Cloud"
+		],
+		"class": [
+			"Mystic"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Janna.png"
+	},
+	{
+		"name": "Jax",
+		"origin": [
+			"Light"
+		],
+		"class": [
+			"Berserker"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Jax.png"
+	},
+	{
+		"name": "Kha'Zix",
+		"origin": [
+			"Desert"
+		],
+		"class": [
+			"Assassin"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Khazix.png"
+	},
+	{
+		"name": "Kindred",
+		"origin": [
+			"Inferno",
+			"Shadow"
+		],
+		"class": [
+			"Ranger"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Kindred.png"
+	},
+	{
+		"name": "Kog'Maw",
+		"origin": [
+			"Poison"
+		],
+		"class": [
+			"Predator"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/KogMaw.png"
+	},
+	{
+		"name": "LeBlanc",
+		"origin": [
+			"Forest"
+		],
+		"class": [
+			"Assassin",
+			"Mage"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Leblanc.png"
+	},
+	{
+		"name": "Malphite",
+		"origin": [
+			"Mountain"
+		],
+		"class": [
+			"Warden"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Malphite.png"
+	},
+	{
+		"name": "Malzahar",
+		"origin": [
+			"Shadow"
+		],
+		"class": [
+			"Summoner"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Malzahar.png"
+	},
+	{
+		"name": "Maokai",
+		"origin": [
+			"Forest"
+		],
+		"class": [
+			"Druid"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Maokai.png"
+	},
+	{
+		"name": "Master Yi",
+		"origin": [
+			"Shadow"
+		],
+		"class": [
+			"Blademaster",
+			"Mystic"
+		],
+		"cost": 5,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/MasterYi.png"
+	},
+	{
+		"name": "Nami",
+		"origin": [
+			"Ocean"
+		],
+		"class": [
+			"Mystic"
+		],
+		"cost": 5,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Nami.png"
+	},
+	{
+		"name": "Nasus",
+		"origin": [
+			"Light"
+		],
+		"class": [
+			"Warden"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Nasus.png"
+	},
+	{
+		"name": "Nautilus",
+		"origin": [
+			"Ocean"
+		],
+		"class": [
+			"Warden"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Nautilus.png"
+	},
+	{
+		"name": "Neeko",
+		"origin": [
+			"Forest"
+		],
+		"class": [
+			"Druid"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Neeko.png"
+	},
+	{
+		"name": "Nocturne",
+		"origin": [
+			"Steel"
+		],
+		"class": [
+			"Assassin"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Nocturne.png"
+	},
+	{
+		"name": "Olaf",
+		"origin": [
+			"Glacial"
+		],
+		"class": [
+			"Berserker"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Olaf.png"
+	},
+	{
+		"name": "Ornn",
+		"origin": [
+			"Electric"
+		],
+		"class": [
+			"Warden"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Ornn.png"
+	},
+	{
+		"name": "Qiyana",
+		"origin": [
+		],
+		"class": [
+			"Assassin"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Qiyana.png"
+	},
+	{
+		"name": "Rek'Sai",
+		"origin": [
+			"Steel"
+		],
+		"class": [
+			"Predator"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/RekSai.png"
+	},
+	{
+		"name": "Renekton",
+		"origin": [
+			"Desert"
+		],
+		"class": [
+			"Berserker"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Renekton.png"
+	},
+	{
+		"name": "Singed",
+		"origin": [
+			"Poison"
+		],
+		"class": [
+			"Alchemist"
+		],
+		"cost": 5,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Singed.png"
+	},
+	{
+		"name": "Sion",
+		"origin": [
+			"Shadow"
+		],
+		"class": [
+			"Berserker"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Sion.png"
+	},
+	{
+		"name": "Sivir",
+		"origin": [
+			"Desert"
+		],
+		"class": [
+			"Blademaster"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Sivir.png"
+	},
+	{
+		"name": "Skarner",
+		"origin": [
+			"Crystal"
+		],
+		"class": [
+			"Predator"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Skarner.png"
+	},
+	{
+		"name": "Soraka",
+		"origin": [
+			"Light"
+		],
+		"class": [
+			"Mystic"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Soraka.png"
+	},
+	{
+		"name": "Syndra",
+		"origin": [
+			"Ocean"
+		],
+		"class": [
+			"Mage"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Syndra.png"
+	},
+	{
+		"name": "Taliyah",
+		"origin": [
+			"Mountain"
+		],
+		"class": [
+			"Mage"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Taliyah.png"
+	},
+	{
+		"name": "Taric",
+		"origin": [
+			"Crystal"
+		],
+		"class": [
+			"Warden"
+		],
+		"cost": 5,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Taric.png"
+	},
+	{
+		"name": "Thresh",
+		"origin": [
+			"Ocean"
+		],
+		"class": [
+			"Warden"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Thresh.png"
+	},
+	{
+		"name": "Twitch",
+		"origin": [
+			"Poison"
+		],
+		"class": [
+			"Ranger"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Twitch.png"
+	},
+	{
+		"name": "Varus",
+		"origin": [
+			"Inferno"
+		],
+		"class": [
+			"Ranger"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Varus.png"
+	},
+	{
+		"name": "Vayne",
+		"origin": [
+			"Light"
+		],
+		"class": [
+			"Ranger"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Vayne.png"
+	},
+	{
+		"name": "Veigar",
+		"origin": [
+			"Shadow"
+		],
+		"class": [
+			"Mage"
+		],
+		"cost": 3,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Veigar.png"
+	},
+	{
+		"name": "Vladimir",
+		"origin": [
+			"Ocean"
+		],
+		"class": [
+			"Mage"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Vladimir.png"
+	},
+	{
+		"name": "Volibear",
+		"origin": [
+			"Electric",
+			"Glacial"
+		],
+		"class": [
+			"Berserker"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Volibear.png"
+	},
+	{
+		"name": "Warwick",
+		"origin": [
+			"Glacial"
+		],
+		"class": [
+			"Predator"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Warwick.png"
+	},
+	{
+		"name": "Yasuo",
+		"origin": [
+			"Cloud"
+		],
+		"class": [
+			"Blademaster"
+		],
+		"cost": 2,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Yasuo.png"
+	},
+	{
+		"name": "Yorick",
+		"origin": [
+			"Light"
+		],
+		"class": [
+			"Summoner"
+		],
+		"cost": 4,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Yorick.png"
+	},
+	{
+		"name": "Zed",
+		"origin": [
+			"Electric"
+		],
+		"class": [
+			"Assassin",
+			"Summoner"
+		],
+		"cost": 5,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Zed.png"
+	},
+	{
+		"name": "Zyra",
+		"origin": [
+			"Inferno"
+		],
+		"class": [
+			"Summoner"
+		],
+		"cost": 1,
+		"avatar": "https://blitz-cdn.blitz.gg/90x90/blitz/tft/champion_squares/set1/Zyra.png"
+	}
+]

@@ -1,0 +1,5265 @@
+[
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "西维尔",
+            "亚索"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 4,
+            "守护神": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.800001,
+        "total_strength": 10.262400517654426
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.05,
+        "total_strength": 10.515400478553778
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "塞恩",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.25,
+        "total_strength": 10.660400206756588
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.25,
+        "total_strength": 10.747400541496285
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.86050017738342
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.800001,
+        "total_strength": 11.420200303649903
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "亚索"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 2,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 27.1,
+        "total_strength": 10.800000789642345
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "塞恩",
+            "亚索"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 28.199999,
+        "total_strength": 11.131200651168825
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 22,
+        "total_strength": 14.302800417804717
+    },
+    {
+        "combo": [
+            "EZ",
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "游侠": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.15,
+        "total_strength": 10.614000321388243
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 22,
+        "total_strength": 14.302800417804717
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.900002,
+        "total_strength": 11.736300167465206
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "塞恩",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.25,
+        "total_strength": 10.66040020675659
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 22,
+        "total_strength": 14.302800417804718
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.8,
+        "total_strength": 11.420200303649901
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.86050017738342
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.8,
+        "total_strength": 11.420200303649901
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "马尔扎哈",
+            "内瑟斯",
+            "泰坦",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "影": 2,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.8,
+        "total_strength": 10.176000541687017
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "维恩",
+            "约里克"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 4,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.9,
+        "total_strength": 10.368000423431397
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 4,
+            "山": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 22,
+        "total_strength": 14.302800417804718
+    },
+    {
+        "combo": [
+            "剑魔",
+            "贾科斯",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 4,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 23.2,
+        "total_strength": 10.800000371932981
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "西维尔",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.86050017738342
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "西维尔",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.900002,
+        "total_strength": 11.736300167465206
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.900002,
+        "total_strength": 11.536200196838374
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 4,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.9,
+        "total_strength": 10.296000432014466
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.800003,
+        "total_strength": 11.420200303649903
+    },
+    {
+        "combo": [
+            "剑魔",
+            "贾科斯",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.050001,
+        "total_strength": 10.469000454902652
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "西维尔",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.15,
+        "total_strength": 10.527000332355499
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "约里克"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 4,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 23.199999,
+        "total_strength": 10.800000371932981
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "易大师",
+            "内瑟斯",
+            "泰坦",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "影": 2,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.800001,
+        "total_strength": 10.176000541687017
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.25,
+        "total_strength": 10.660400206756592
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.860500177383422
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "马尔扎哈",
+            "泰坦",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "影": 2,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.800001,
+        "total_strength": 10.176000541687017
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "马尔扎哈",
+            "泰坦",
+            "奥恩",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "影": 2,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.800001,
+        "total_strength": 10.176000541687017
+    },
+    {
+        "combo": [
+            "剑魔",
+            "贾科斯",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.05,
+        "total_strength": 10.469000454902652
+    },
+    {
+        "combo": [
+            "艾希",
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "游侠": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.150002,
+        "total_strength": 10.614000321388243
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.250002,
+        "total_strength": 10.747400541496285
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.86050017738342
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "图奇"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "游侠": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.150002,
+        "total_strength": 10.614000321388243
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.25,
+        "total_strength": 10.660400206756588
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "墨菲特",
+            "易大师",
+            "泰坦",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "影": 2,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.8,
+        "total_strength": 10.176000541687017
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "易大师",
+            "泰坦",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "影": 2,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.8,
+        "total_strength": 10.176000541687017
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.050001,
+        "total_strength": 10.51540047855378
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 21.100002,
+        "total_strength": 12.980400601100925
+    },
+    {
+        "combo": [
+            "EZ",
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "游侠": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.150002,
+        "total_strength": 10.614000321388243
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "易大师",
+            "泰坦",
+            "奥恩",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "影": 2,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 21.8,
+        "total_strength": 10.176000541687017
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.860500177383422
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.900002,
+        "total_strength": 11.736300167465204
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.25,
+        "total_strength": 10.66040020675659
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "西维尔",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.86050017738342
+    },
+    {
+        "combo": [
+            "艾希",
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "游侠": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.150002,
+        "total_strength": 10.614000321388243
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.25,
+        "total_strength": 10.86050017738342
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "维恩"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "光": 4,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 23.199999,
+        "total_strength": 10.800000371932981
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.8,
+        "total_strength": 11.420200303649903
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.900002,
+        "total_strength": 11.536200196838374
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "西维尔",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.150002,
+        "total_strength": 10.527000332355499
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 6,
+        "trait_detail": {
+            "剑士": 2,
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 21.9,
+        "total_strength": 11.736300167465204
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.300001,
+        "total_strength": 10.701000310420989
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.85,
+        "total_strength": 10.179000376224518
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.400002,
+        "total_strength": 10.83440018482208
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.312400250625611
+    },
+    {
+        "combo": [
+            "贾科斯",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "西维尔",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.85,
+        "total_strength": 10.179000376224518
+    },
+    {
+        "combo": [
+            "贾科斯",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "塞恩",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.31240025062561
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "索拉卡",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.295000269412991
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "索拉卡",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.75,
+        "total_strength": 11.136000255584712
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.020000362396239
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥拉夫",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.295000269412991
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.400002,
+        "total_strength": 10.83440018482208
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.65,
+        "total_strength": 9.964400640201582
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "索拉卡",
+            "锤石",
+            "维恩",
+            "约里克"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 4,
+            "守护神": 4,
+            "海洋": 2
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 20.400002,
+        "total_strength": 10.800000429153444
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥拉夫",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856925
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛吉德",
+            "西维尔",
+            "亚索"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "海洋": 2,
+            "炼金术士": 1,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 25.95,
+        "total_strength": 10.627200666046145
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.295000269412991
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥拉夫",
+            "索拉卡",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.7,
+        "total_strength": 10.080000629425058
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.550001,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.75,
+        "total_strength": 11.136000255584715
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥拉夫",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.200003,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "山": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.95,
+        "total_strength": 12.806400623035435
+    },
+    {
+        "combo": [
+            "剑魔",
+            "贾科斯",
+            "易大师",
+            "内瑟斯",
+            "索拉卡",
+            "维恩",
+            "约里克"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 6,
+            "剑士": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 17.1,
+        "total_strength": 11.779999876022337
+    },
+    {
+        "combo": [
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346744
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895867
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "剑魔",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.300001,
+        "total_strength": 10.701000310420989
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.7,
+        "total_strength": 10.022400622558605
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "维恩"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.85,
+        "total_strength": 10.161600395011902
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "维恩"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.85,
+        "total_strength": 10.161600395011902
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895867
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.31240025062561
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "塞恩",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.31240025062561
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.75,
+        "total_strength": 11.136000255584712
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.020000362396239
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "索拉卡",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.75,
+        "total_strength": 11.136000255584712
+    },
+    {
+        "combo": [
+            "贾科斯",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895868
+    },
+    {
+        "combo": [
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.300001,
+        "total_strength": 10.614000597953805
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "索拉卡",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.05,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895868
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814084
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.31240025062561
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "索拉卡",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.295000269412991
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.75,
+        "total_strength": 11.362200218772886
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.7,
+        "total_strength": 10.022400622558605
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.05,
+        "total_strength": 10.428400143814084
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.85,
+        "total_strength": 10.179000376224518
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "西维尔",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.85,
+        "total_strength": 10.179000376224518
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "内瑟斯",
+            "泰坦",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.699999,
+        "total_strength": 10.022400622558605
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.312400250625611
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "索拉卡",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856927
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "墨菲特",
+            "泰坦",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.7,
+        "total_strength": 10.022400622558605
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥拉夫",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856925
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.31240025062561
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.300001,
+        "total_strength": 10.614000597953805
+    },
+    {
+        "combo": [
+            "布兰德",
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.400002,
+        "total_strength": 10.83440018482208
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥拉夫",
+            "奥恩",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856925
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥拉夫",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.550001,
+        "total_strength": 11.020000500679018
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.80800019454955
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895868
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥拉夫",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.6,
+        "total_strength": 11.865600315856927
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856925
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "索拉卡",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856927
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥拉夫",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.550001,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "千珏",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.699999,
+        "total_strength": 11.304200133895867
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.80800019454955
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.75,
+        "total_strength": 11.362200218772886
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.020000362396239
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.75,
+        "total_strength": 11.136000255584712
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.75,
+        "total_strength": 11.136000255584712
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346742
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.6,
+        "total_strength": 11.865600315856925
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346744
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "西维尔",
+            "索拉卡",
+            "辛德拉",
+            "亚索"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "海洋": 2,
+            "秘术": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 26.95,
+        "total_strength": 11.865601059722929
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.808000194549551
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "岩雀",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 6,
+            "山": 2,
+            "海洋": 2
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 21,
+        "total_strength": 13.478400096130356
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "索拉卡",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856927
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "剑魔",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "维恩"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856927
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥拉夫",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥拉夫",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.599998,
+        "total_strength": 11.865600315856925
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895868
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "泰坦",
+            "奥恩",
+            "辛吉德",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.4,
+        "total_strength": 10.83440018482208
+    },
+    {
+        "combo": [
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346744
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.312400250625611
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.05,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "剑魔",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.2,
+        "total_strength": 10.54440072841646
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814084
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.85,
+        "total_strength": 10.179000376224518
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 20.2,
+        "total_strength": 11.658000466346746
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "辛吉德",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4,
+            "炼金术士": 1
+        },
+        "total_trait_num": 23,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "布兰德",
+            "乐芙兰",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895868
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛吉德",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2,
+            "炼金术士": 1
+        },
+        "total_trait_num": 26,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.808000194549551
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 18.95,
+        "total_strength": 10.312400250625611
+    },
+    {
+        "combo": [
+            "马尔扎哈",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.05,
+        "total_strength": 10.428400143814084
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "西维尔",
+            "亚索"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "守护神": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 26.85,
+        "total_strength": 10.512000766754161
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 27,
+        "total_trait_strength": 21.6,
+        "total_strength": 11.865600315856925
+    },
+    {
+        "combo": [
+            "剑魔",
+            "易大师",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "剑士": 2,
+            "守护神": 4,
+            "海洋": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.800001,
+        "total_strength": 10.128000528335576
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.95,
+        "total_strength": 11.368000595092779
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "西维尔",
+            "亚索"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "影": 2,
+            "海洋": 2,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 27.05,
+        "total_strength": 10.958400527572625
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "西维尔",
+            "索拉卡",
+            "亚索"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "云端": 2,
+            "剑士": 2,
+            "海洋": 2,
+            "秘术": 4
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 26.95,
+        "total_strength": 11.86560105972293
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "内瑟斯",
+            "泰坦",
+            "索拉卡",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "光": 2,
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.7,
+        "total_strength": 10.080000629425058
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "千珏",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 2,
+            "游侠": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 20.7,
+        "total_strength": 10.022400622558605
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "布兰德",
+            "千珏",
+            "易大师",
+            "娜美",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.400002,
+        "total_strength": 10.83440018482208
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "塞恩",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "影": 2,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.050001,
+        "total_strength": 10.428400143814082
+    },
+    {
+        "combo": [
+            "布隆",
+            "EZ",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "冰川": 2,
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.55,
+        "total_strength": 11.020000500679021
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895867
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "海洋": 4,
+            "秘术": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 18.95,
+        "total_strength": 11.368000595092779
+    },
+    {
+        "combo": [
+            "易大师",
+            "娜美",
+            "塞恩",
+            "辛德拉",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "影": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 20.7,
+        "total_strength": 11.304200133895868
+    },
+    {
+        "combo": [
+            "风女",
+            "娜美",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 5,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4,
+            "秘术": 2
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.2,
+        "total_strength": 10.498000428199772
+    },
+    {
+        "combo": [
+            "艾希",
+            "EZ",
+            "千珏",
+            "图奇",
+            "维鲁斯",
+            "维恩",
+            "婕拉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "游侠": 6,
+            "炼狱": 3
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 14.699999,
+        "total_strength": 10.543999572753911
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "图奇"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.020000362396239
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "鳄鱼",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塞恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "塞恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "鳄鱼",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "鳄鱼",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476063
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476063
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "索拉卡",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "海洋": 4,
+            "秘术": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.550001,
+        "total_strength": 10.904000469207766
+    },
+    {
+        "combo": [
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "图奇",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322751
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥恩",
+            "鳄鱼",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322755
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "内瑟斯",
+            "泰坦",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "图奇"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322753
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.020000362396239
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "图奇",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322753
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 28,
+        "total_trait_strength": 21,
+        "total_strength": 12.096000160217274
+    },
+    {
+        "combo": [
+            "墨菲特",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石",
+            "图奇",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322753
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.150002,
+        "total_strength": 10.440000619888316
+    },
+    {
+        "combo": [
+            "布隆",
+            "泰坦",
+            "奥恩",
+            "塞恩",
+            "辛德拉",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322755
+    },
+    {
+        "combo": [
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 24,
+        "total_trait_strength": 17.650002,
+        "total_strength": 11.02000036239624
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "塔里克",
+            "锤石",
+            "图奇",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322751
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维恩"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322753
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476063
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322753
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克",
+            "锤石",
+            "维嘉"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322753
+    },
+    {
+        "combo": [
+            "娜美",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "锤石"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 4,
+            "海洋": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.150002,
+        "total_strength": 10.440000343322755
+    },
+    {
+        "combo": [
+            "布隆",
+            "墨菲特",
+            "内瑟斯",
+            "泰坦",
+            "奥恩",
+            "辛德拉",
+            "塔里克"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 6,
+            "海洋": 2
+        },
+        "total_trait_num": 25,
+        "total_trait_strength": 19.2,
+        "total_strength": 11.328000175476065
+    },
+    {
+        "combo": [
+            "泰坦",
+            "辛德拉",
+            "岩雀",
+            "塔里克",
+            "锤石",
+            "维嘉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "守护神": 2,
+            "法师": 3,
+            "海洋": 4
+        },
+        "total_trait_num": 21,
+        "total_trait_strength": 19.150002,
+        "total_strength": 10.440000619888314
+    },
+    {
+        "combo": [
+            "风女",
+            "易大师",
+            "娜美",
+            "泰坦",
+            "索拉卡",
+            "辛德拉",
+            "吸血鬼"
+        ],
+        "trait_num": 4,
+        "trait_detail": {
+            "海洋": 4,
+            "秘术": 4
+        },
+        "total_trait_num": 22,
+        "total_trait_strength": 16.550001,
+        "total_strength": 10.904000469207766
+    }
+]

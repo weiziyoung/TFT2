@@ -1,0 +1,526 @@
+[
+	{
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.4,
+			2,
+			3
+		],
+		"champions": [
+			"Aatrox",
+			"Jax",
+			"Nasus",
+			"Soraka",
+			"Vayne",
+			"Yorick"
+		],
+		"name": "Light"
+	},
+	{
+		"bonus_num": [
+			3,
+			6,
+			9
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.6,
+			2.2
+		],
+		"champions": [
+			"Annie",
+			"Brand",
+			"Diana",
+			"Kindred",
+			"Varus",
+			"Zyra"
+		],
+		"name": "Inferno"
+	},
+	{
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.4
+		],
+		"champions": [
+			"Ashe",
+			"Skarner",
+			"Taric"
+		],
+		"name": "Crystal"
+	},
+	{
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.4
+		],
+		"champions": [
+			"Azir",
+			"Kha'Zix",
+			"Renekton",
+			"Sivir"
+		],
+		"name": "Desert"
+	},
+	{
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.4,
+			1.6
+		],
+		"champions": [
+			"Braum",
+			"Ezreal",
+			"Olaf",
+			"Volibear",
+			"Warwick"
+		],
+		"name": "Glacial"
+	},
+	{
+		"bonus_num": [
+			3
+		],
+		"scope": [
+			2
+		],
+		"strength": [
+			1.6
+		],
+		"champions": [
+			"Dr. Mundo",
+			"Kog'Maw",
+			"Singed",
+			"Twitch"
+		],
+		"name": "Poison"
+	},
+	{
+		"bonus_num": [
+			3
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			2
+		],
+		"champions": [
+			"Ivern",
+			"LeBlanc",
+			"Maokai",
+			"Neeko"
+		],
+		"name": "Forest"
+	},
+	{
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			3,
+			3,
+			3
+		],
+		"strength": [
+			1.2,
+			1.45,
+			1.8
+		],
+		"champions": [
+			"Janna",
+			"Yasuo"
+		],
+		"name": "Cloud"
+	},
+	{
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.6
+		],
+		"champions": [
+			"Kindred",
+			"Malzahar",
+			"Master Yi",
+			"Sion",
+			"Veigar"
+		],
+		"name": "Shadow"
+	},
+	{
+		"bonus_num": [
+			2
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			1.8
+		],
+		"champions": [
+			"Malphite",
+			"Taliyah"
+		],
+		"name": "Mountain"
+	},
+	{
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			3,
+			3,
+			3
+		],
+		"strength": [
+			1.2,
+			1.45,
+			1.8
+		],
+		"champions": [
+			"Nami",
+			"Nautilus",
+			"Syndra",
+			"Thresh",
+			"Vladimir"
+		],
+		"name": "Ocean"
+	},
+	{
+		"bonus_num": [
+			2,
+			3,
+			4
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.45,
+			1.6
+		],
+		"champions": [
+			"Nocturne",
+			"Rek'Sai"
+		],
+		"name": "Steel"
+	},
+	{
+		"bonus_num": [
+			2,
+			3,
+			4
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.32,
+			1.44
+		],
+		"champions": [
+			"Ornn",
+			"Volibear",
+			"Zed"
+		],
+		"name": "Electric"
+	},
+	{
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.25,
+			1.5,
+			1.75
+		],
+		"champions": [
+			"Aatrox",
+			"Master Yi",
+			"Sivir",
+			"Yasuo"
+		],
+		"name": "Blademaster"
+	},
+	{
+		"bonus_num": [
+			3,
+			6
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.4,
+			2
+		],
+		"champions": [
+			"Annie",
+			"Azir",
+			"Malzahar",
+			"Yorick",
+			"Zed",
+			"Zyra"
+		],
+		"name": "Summoner"
+	},
+	{
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.55,
+			1.8
+		],
+		"champions": [
+			"Ashe",
+			"Ezreal",
+			"Kindred",
+			"Twitch",
+			"Varus",
+			"Vayne"
+		],
+		"name": "Ranger"
+	},
+	{
+		"bonus_num": [
+			3,
+			6
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.35,
+			1.7
+		],
+		"champions": [
+			"Brand",
+			"LeBlanc",
+			"Syndra",
+			"Taliyah",
+			"Veigar",
+			"Vladimir"
+		],
+		"name": "Mage"
+	},
+	{
+		"bonus_num": [
+			2,
+			4,
+			6
+		],
+		"scope": [
+			2,
+			2,
+			2
+		],
+		"strength": [
+			1.2,
+			1.5,
+			1.8
+		],
+		"champions": [
+			"Braum",
+			"Malphite",
+			"Nasus",
+			"Nautilus",
+			"Ornn",
+			"Taric",
+			"Thresh"
+		],
+		"name": "Warden"
+	},
+	{
+		"bonus_num": [
+			3,
+			6
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.6
+		],
+		"champions": [
+			"Diana",
+			"Kha'Zix",
+			"LeBlanc",
+			"Nocturne",
+			"Qiyana",
+			"Zed"
+		],
+		"name": "Assassin"
+	},
+	{
+		"bonus_num": [
+			3,
+			6
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.6
+		],
+		"champions": [
+			"Dr. Mundo",
+			"Jax",
+			"Olaf",
+			"Renekton",
+			"Sion",
+			"Volibear"
+		],
+		"name": "Berserker"
+	},
+	{
+		"bonus_num": [
+			2
+		],
+		"scope": [
+			2
+		],
+		"strength": [
+			1.3
+		],
+		"champions": [
+			"Ivern",
+			"Maokai",
+			"Neeko"
+		],
+		"name": "Druid"
+	},
+	{
+		"bonus_num": [
+			2,
+			4
+		],
+		"scope": [
+			2,
+			2
+		],
+		"strength": [
+			1.3,
+			1.6
+		],
+		"champions": [
+			"Janna",
+			"Master Yi",
+			"Nami",
+			"Soraka"
+		],
+		"name": "Mystic"
+	},
+	{
+		"bonus_num": [
+			3
+		],
+		"scope": [
+			2
+		],
+		"strength": [
+			1.6
+		],
+		"champions": [
+			"Kog'Maw",
+			"Rek'Sai",
+			"Skarner",
+			"Warwick"
+		],
+		"name": "Predator"
+	},
+	{
+		"bonus_num": [
+			1
+		],
+		"scope": [
+			1
+		],
+		"strength": [
+			1.5
+		],
+		"champions": [
+			"Singed"
+		],
+		"name": "Alchemist"
+	}
+]
